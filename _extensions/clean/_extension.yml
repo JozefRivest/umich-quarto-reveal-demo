@@ -6,7 +6,7 @@ contributes:
   formats:
     revealjs:
       theme: [default, clean.scss]
-      logo: logo.png
+      logo: ../../index_files/libs/revealjs/dist/theme/logo.png
       footer: ""
       menu:
         side: left
