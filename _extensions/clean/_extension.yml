@@ -7,6 +7,7 @@ contributes:
     revealjs:
       theme: [default, clean.scss]
       logo: logo.png
+      footer: ""
       menu:
         side: left
       slide-number: true
