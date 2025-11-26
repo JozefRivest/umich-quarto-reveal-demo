@@ -1,6 +1,6 @@
 ---
-title: The Permanent Mark
-subtitle: How Violence Shapes the State and the Nation
+title: How to nail presentation?
+subtitle: "`umich-quarto-reveal` will help you nail it!"
 format: clean-revealjs
 author:
   - name: Jozef Rivest
@@ -66,4 +66,4 @@ Cross-references
 quarto use template JozefRivest/umich-quarto-reveal
 ```
 
-
+And start your presentation with `template.qmd`! 
